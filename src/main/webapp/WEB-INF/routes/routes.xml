@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes>
+ <route name="user" method="get" action="org.mql.java.web.actions.User" methodtoExcute="index"/>
+</routes>
